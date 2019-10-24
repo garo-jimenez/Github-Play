@@ -1,1 +1,2 @@
 File 1
+Added a note to file one
